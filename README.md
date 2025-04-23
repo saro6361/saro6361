@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Saranya<br>🎓 Pursuing B.E. in Computer Science and Engineering (3rd Year)<br>💻 Passionate about coding, building projects, and learning new technologies<br>🌱 Currently exploring web development and UI/UX editing<br>🔭 Working on improving my skills in MERN stack (MongoDB, Express.js, React.js, Node.js), Figma (for UI/UX), and other coding/editing tools like Visual Studio Code<br>📫 You can reach me at []<br>🚀 Always open to internships, collaborations, and learning opportunities
+👋 Hi, I’m Saranya<br>🎓 Pursuing B.E. in Computer Science and Engineering (3rd Year)<br>💻 Passionate about coding, building projects, and learning new technologies<br>🌱 Currently exploring web development and UI/UX editing<br>🔭 Working on improving my skills in MERN stack (MongoDB, Express.js, React.js, Node.js), Figma (for UI/UX), and other coding/editing tools like Visual Studio Code<br><br>🚀 Always open to internships, collaborations, and learning opportunities
 
 
 ## 🌐 Socials:
